@@ -1,0 +1,6 @@
+@RoleJwtApi1_HostAddress = http://localhost:5070
+
+GET {{RoleJwtApi1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
